@@ -1,6 +1,1 @@
-es;
-otra;
-
-console.error();
-
-rttt;
+escritura 1
