@@ -1,2 +1,6 @@
-escritura 1
-otra linea
+es;
+otra;
+
+console.error();
+
+rttt;
